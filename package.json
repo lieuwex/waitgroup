@@ -1,0 +1,18 @@
+{
+  "name": "@lieuwex/waitgroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lieuwe Rooijakkers <lieuwerooijakkers@gmail.com> (http://www.lieuwe.xyz/)",
+  "license": "MIT",
+  "dependencies": {
+    "fibers": "^1.0.15"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
